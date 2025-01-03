@@ -1,8 +1,6 @@
 # Call-Center-Dashboard
 
 Description
-This Project is part of PwC's virtual internship on Forage. 
-
   The call center manager wanted to understand her department trends so I defined the following KPIs for 
 a better understanding of the call center team performance:
 
